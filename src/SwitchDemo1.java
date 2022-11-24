@@ -25,5 +25,6 @@ public class SwitchDemo1
 		}
 		System.out.println("out of switch block");
 		System.out.println("BYE BYE!");
+		System.out.println("hello");
 	}
 }
